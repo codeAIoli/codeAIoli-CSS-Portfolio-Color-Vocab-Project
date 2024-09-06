@@ -1,0 +1,43 @@
+*{
+    background-color: rgb(129, 199, 223);
+}
+    
+/* Start by setting the "img"  200px by 200px */
+/* Second set the "font weight" is set to "normal" */
+/* Lastly make sure the color name matches the color square*/
+
+
+/* Step one; setting the size of the images. */
+img
+    {
+        width: 200px;
+        height: 200px;
+    }
+
+/* Step two: seeting up the font weight. */
+.color-title
+    {
+        font-weight: normal;
+    }
+
+/* Step three: making sure the color of the images matches the name */
+
+#red{
+        color: red;
+    }
+
+#blue{
+        color: blue;
+    }
+
+#orange{
+        color: orange;
+    } 
+    
+#green{
+        color: green;
+    }
+    
+#yellow{
+        color: yellow;
+    }  
